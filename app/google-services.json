@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "556409245999",
+    "firebase_url": "https://homesafely-219717.firebaseio.com",
+    "project_id": "homesafely-219717",
+    "storage_bucket": "homesafely-219717.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556409245999:android:f2314bb94db5a13e",
+        "android_client_info": {
+          "package_name": "com.example.samyadedge.homesafely"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556409245999-bjra96n8juhiv61l9nlp3a93m0vn8dnr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.samyadedge.homesafely",
+            "certificate_hash": "be3fa44624e7763654fa9e5ecbd03b6749209328"
+          }
+        },
+        {
+          "client_id": "556409245999-7lp9al2riup8kp57nldd4jmhst6l11es.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClF_qqdFn8KUuq8uMXuUymNwW8GD4NRHM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556409245999-7lp9al2riup8kp57nldd4jmhst6l11es.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556409245999:android:5cdbd51609afa07f",
+        "android_client_info": {
+          "package_name": "com.example.samyadedge.locationdisplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556409245999-ggv10u8r8qupkcg3h1sctjgmuaii48bk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.samyadedge.locationdisplay",
+            "certificate_hash": "be3fa44624e7763654fa9e5ecbd03b6749209328"
+          }
+        },
+        {
+          "client_id": "556409245999-7lp9al2riup8kp57nldd4jmhst6l11es.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClF_qqdFn8KUuq8uMXuUymNwW8GD4NRHM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556409245999-7lp9al2riup8kp57nldd4jmhst6l11es.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TrackerActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_centerVertical="true"
+        >
+
+        <EditText
+            android:id="@+id/emailEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Email"
+            android:layout_marginBottom="20dp"
+            />
+
+
+        <EditText
+            android:id="@+id/passwordEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Password"
+            android:inputType="textPassword"
+            android:layout_marginBottom="20dp"
+            />
+
+        <Button
+            android:id="@+id/btnLogin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Login"
+            />
+
+        <TextView
+            android:id="@+id/createAccount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Create Account"
+            android:layout_marginTop="20dp"
+            android:layout_gravity="center_horizontal"
+            />
+
+
+    </LinearLayout>
+
+</RelativeLayout>
